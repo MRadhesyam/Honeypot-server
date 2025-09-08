@@ -6,7 +6,7 @@ This report documents the deployment and analysis of a **Cowrie honeypot** on Ka
 
 ## 📖 Project Documentation
 - Full setup details and screenshots are included in the PDF:
-  docs/Honeypot_Server_Setup.pdf
+  docs/Honeypot Server Setup.pdf
 
 - Additional evidence (logs, screenshots) are stored in:
   docs/screenshots/
@@ -63,4 +63,4 @@ This report documents the deployment and analysis of a **Cowrie honeypot** on Ka
 
 ## 📜 References
 - Cowrie GitHub: https://github.com/cowrie/cowrie
-- Project Documentation (PDF): docs/Honeypot_Server_Setup.pdf
+- Project Documentation (PDF): docs/Honeypot Server Setup.pdf
