@@ -6,7 +6,7 @@ This project demonstrates how to set up a **Cowrie honeypot** on Kali Linux/Kali
 
 ## 📖 Documentation
 The full step-by-step setup guide is included in:
-- [`docs/Honeypot_Server_Setup.pdf`](docs/Honeypot_Server_Setup.pdf)
+- docs/Honeypot Server Setup.pdf
 
 Screenshots of the environment, logs, and attack simulations are in:
 - [`docs/screenshots/`](docs/screenshots/)
