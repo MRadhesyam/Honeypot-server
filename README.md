@@ -9,7 +9,7 @@ The full step-by-step setup guide is included in:
 - docs/Honeypot Server Setup.pdf
 
 Screenshots of the environment, logs, and attack simulations are in:
-- [`docs/screenshots/`](docs/screenshots/)
+- docs/screenshots
 
 ---
 
