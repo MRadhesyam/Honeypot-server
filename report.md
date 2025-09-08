@@ -9,12 +9,12 @@ This report documents the deployment and analysis of a **Cowrie honeypot** on Ka
   docs/Honeypot Server Setup.pdf
 
 - Additional evidence (logs, screenshots) are stored in:
-  docs/screenshots/
+  docs/screenshots
 
 ---
 
 ## ⚙️ Environment & Tools
-- Operating System: Kali Linux / Kali Purple VM
+- Operating System: Kali Linux / Kali Clone VM
 - Honeypot Framework: Cowrie
 - Language: Python 3 (with virtualenv)
 - Virtualization: VirtualBox / VMware
